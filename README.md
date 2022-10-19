@@ -5,6 +5,7 @@ AS A marketing agency<br/>
 I WANT a codebase that follows accessibility standards<br/>
 SO THAT our own site is optimized for search engines<br/>
 
+
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards<br/>
 WHEN I view the source code<br/>
